@@ -8,7 +8,7 @@ const nextConfig = {
     return [
       {
         source: '/:path*',
-        has: [{ type: 'host', value: 'www.areopagushillathens.com' }],
+        has: [{ type: 'host' as const, value: 'www.areopagushillathens.com' }],
         destination: 'https://areopagushillathens.com/:path*',
         permanent: true,
       },
