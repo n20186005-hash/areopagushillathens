@@ -149,7 +149,7 @@ export default async function LocaleLayout({
                   "aggregateRating": {
                     "@type": "AggregateRating",
                     "ratingValue": "4.8",
-                    "reviewCount": "5515"
+                    "reviewCount": "5603"
                   }
                 },
                 {
@@ -157,34 +157,18 @@ export default async function LocaleLayout({
                   "mainEntity": [
                     {
                       "@type": "Question",
-                      "name": "Where is Areopagus Hill located?",
+                      "name": "Do I need a ticket to visit Areopagus Hill?",
                       "acceptedAnswer": {
                         "@type": "Answer",
-                        "text": "Areopagus Hill is located at Theorias 21, Athens 105 55, Greece. It sits northwest of the Acropolis, near the Roman Agora, in the heart of Athens, Attica, Greece."
+                        "text": "No. Areopagus Hill (Mars Hill) is a completely free public site, open 24 hours a day, all year round. You do not need a ticket for the Acropolis to visit it."
                       }
                     },
                     {
                       "@type": "Question",
-                      "name": "Is Areopagus Hill free to visit?",
+                      "name": "What is the best time of day to visit Areopagus Hill?",
                       "acceptedAnswer": {
                         "@type": "Answer",
-                        "text": "Yes, Areopagus Hill (Mars Hill) is a public space and is completely free to visit year-round, open 24 hours a day. You do not need a ticket for the Acropolis to visit."
-                      }
-                    },
-                    {
-                      "@type": "Question",
-                      "name": "What is the best time to visit Areopagus Hill?",
-                      "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": "The best time to visit is during sunset for stunning panoramic views of Athens and the illuminated Acropolis. Arrive 45 minutes before sunset for the best experience."
-                      }
-                    },
-                    {
-                      "@type": "Question",
-                      "name": "Is it safe to climb Areopagus Hill at night?",
-                      "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": "There is some lighting at night, but the rocks are very slippery and there are no guardrails at the edges. Wear non-slip shoes and bring a flashlight for safety."
+                        "text": "The best time is sunset, when the Acropolis and the city are bathed in golden light. Arrive about 45 minutes before sunset to secure a good spot on the rock. In summer, mornings and evenings help you avoid the midday heat."
                       }
                     },
                     {
@@ -192,15 +176,47 @@ export default async function LocaleLayout({
                       "name": "How do I get to Areopagus Hill from Monastiraki?",
                       "acceptedAnswer": {
                         "@type": "Answer",
-                        "text": "Walk from Monastiraki or Thisseio metro stations (Lines 1 and 3). It is about a 10-15 minute walk from Plaka or Monastiraki to the hill entrance on Theorias Street."
+                        "text": "Walk from Monastiraki or Thisseio metro stations (Lines 1 and 3). It is about a 10-15 minute walk from Plaka or Monastiraki to the hill entrance on Theorias Street, near the Roman Agora."
                       }
                     },
                     {
                       "@type": "Question",
-                      "name": "What is the history of Areopagus Hill?",
+                      "name": "Is it safe to climb to the top at night?",
                       "acceptedAnswer": {
                         "@type": "Answer",
-                        "text": "Areopagus Hill was the seat of the aristocratic council and highest criminal court in ancient Athens. In mythology, Ares was tried here for murder. Around 51 AD, Apostle Paul delivered his famous 'Unknown God' sermon here."
+                        "text": "There is some lighting at night, but the rocks are very slippery and there are no guardrails at the edges. We recommend bringing a flashlight, wearing non-slip shoes, and paying close attention to your footing. The night view of Athens is stunning, but safety comes first."
+                      }
+                    },
+                    {
+                      "@type": "Question",
+                      "name": "Are there restrooms or food vendors on the hill?",
+                      "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "There are no commercial facilities or public restrooms on the hill itself. It is advisable to use the facilities and grab a bite in the nearby Plaka district or at cafes around the Acropolis beforehand."
+                      }
+                    },
+                    {
+                      "@type": "Question",
+                      "name": "Is the climb difficult? Is it suitable for the elderly or children?",
+                      "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "The climb is not very high, and there are metal and stone steps available, making it relatively easy for most fitness levels. However, due to the uneven and extremely slippery rocks, elderly visitors and children should be very careful and may need assistance."
+                      }
+                    },
+                    {
+                      "@type": "Question",
+                      "name": "What other attractions are near Areopagus Hill?",
+                      "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "It sits in the heart of Athens' archaeological district. Within a 3-8 minute walk you'll find the Acropolis of Athens, the Roman Agora, and the Plaka district - easy to combine into a single half-day walking route."
+                      }
+                    },
+                    {
+                      "@type": "Question",
+                      "name": "What is the history of Areopagus Hill (Mars Hill)?",
+                      "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Areopagus Hill was the seat of the highest criminal court in ancient Athens, and in mythology Ares was tried here. Around 51 AD, the Apostle Paul delivered his famous 'Unknown God' sermon here, making it a key biblical site also known as Mars Hill."
                       }
                     }
                   ]

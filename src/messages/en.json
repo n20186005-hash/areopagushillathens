@@ -1,8 +1,8 @@
 {
   "meta": {
-    "title": "Areopagus Hill (Athens) - Visitor Guide & Location",
-    "ogTitle": "Areopagus Hill - Athens Travel Guide",
-    "description": "Discover Areopagus Hill (Mars Hill), the iconic landmark in Athens, Attica, Greece. View location map, opening details, nearby Acropolis, and travel tips."
+    "title": "Areopagus Hill (Mars Hill) Athens — Free Sunset Viewpoint & Visitor Guide",
+    "ogTitle": "Areopagus Hill (Mars Hill) — Athens Travel Guide",
+    "description": "Visit Areopagus Hill (Mars Hill) in Athens — a free, 24/7 viewpoint over the Acropolis. Sunset tips, directions from Monastiraki, photos, history, and nearby attractions in Plaka."
   },
   "header": {
     "home": "Home",
@@ -15,7 +15,7 @@
     "title": "Areopagus Hill — Athens, Greece",
     "subtitle": "Historic Landmark · Athens",
     "rating": "4.8",
-    "reviewCount": "5,515 reviews",
+    "reviewCount": "5,603 reviews",
     "type": "Ancient Landmark",
     "openMaps": "View on Google Maps",
     "mapsLink": "https://maps.app.goo.gl/Dupzqbpja8DxWKSH8"
@@ -74,7 +74,15 @@
     "items": [
       {
         "question": "Do I need a ticket to visit Areopagus Hill?",
-        "answer": "No, Areopagus Hill is a completely free public site, open 24 hours a day, all year round."
+        "answer": "No. Areopagus Hill (Mars Hill) is a completely free public site, open 24 hours a day, all year round. You do not need a ticket for the Acropolis to visit it."
+      },
+      {
+        "question": "What is the best time of day to visit Areopagus Hill?",
+        "answer": "The best time is sunset, when the Acropolis and the city are bathed in golden light. Arrive about 45 minutes before sunset to secure a good spot on the rock. In summer, mornings and evenings help you avoid the midday heat."
+      },
+      {
+        "question": "How do I get to Areopagus Hill from Monastiraki?",
+        "answer": "Walk from Monastiraki or Thisseio metro stations (Lines 1 and 3). It is about a 10–15 minute walk from Plaka or Monastiraki to the hill entrance on Theorias Street, near the Roman Agora."
       },
       {
         "question": "Is it safe to climb to the top at night?",
@@ -87,6 +95,14 @@
       {
         "question": "Is the climb difficult? Is it suitable for the elderly or children?",
         "answer": "The climb is not very high, and there are metal and stone steps available, making it relatively easy for most fitness levels. However, due to the uneven and extremely slippery rocks, elderly visitors and children should be very careful and may need assistance."
+      },
+      {
+        "question": "What other attractions are near Areopagus Hill?",
+        "answer": "It sits in the heart of Athens' archaeological district. Within a 3–8 minute walk you'll find the Acropolis of Athens, the Roman Agora, and the Plaka district — easy to combine into a single half-day walking route."
+      },
+      {
+        "question": "What is the history of Areopagus Hill (Mars Hill)?",
+        "answer": "Areopagus Hill was the seat of the highest criminal court in ancient Athens, and in mythology Ares was tried here. Around 51 AD, the Apostle Paul delivered his famous 'Unknown God' sermon here, making it a key biblical site also known as Mars Hill."
       }
     ]
   },
@@ -161,7 +177,7 @@
     "city": "City",
     "cityValue": "Athens (Attica)",
     "googleRating": "Google Rating",
-    "googleRatingValue": "4.8 (5,515)",
+    "googleRatingValue": "4.8 (5,603)",
     "address": "Address",
     "addressValue": "Theorias 21, Athina 105 55, Greece",
     "plusCode": "Plus Code",
@@ -525,7 +541,7 @@
       {
         "title": "Google Maps — Areopagus Hill",
         "url": "https://maps.app.goo.gl/Dupzqbpja8DxWKSH8",
-        "description": "Location, reviews, and directions for Areopagus Hill (Mars Hill) on Google Maps. Rating: 4.8 stars from 5,515 reviews."
+        "description": "Location, reviews, and directions for Areopagus Hill (Mars Hill) on Google Maps. Rating: 4.8 stars from 5,603 reviews."
       }
     ]
   }
